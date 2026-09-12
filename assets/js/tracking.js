@@ -6,7 +6,7 @@
 (function () {
   const C = window.SITE_CONFIG || {};
   const CLICK_ID_KEYS = ['gclid', 'gbraid', 'wbraid'];
-  const DEFAULT_GOOGLE_ADS_SEND_TO = 'AW-18376580748/K45WCPGxpescEIy90bpE';
+  const DEFAULT_GOOGLE_ADS_SEND_TO = 'AW-18376654362/2rJmCOGkveEcEJr81bpE';
   const CASHBOLT_SUBMIT_SESSION_KEY = 'df_cashbolt_submit';
 
   function getURLParam(name) {

@@ -784,9 +784,10 @@ def footer_html(geo: str, g: dict) -> str:
       <div>
         <h4 class="site-footer__heading">{g["footer_contact"]}</h4>
         <ul class="site-footer__list">
-          <li><strong>WHATECH MOBILE CO., LIMITED</strong></li>
-          <li>Room 505, 5th floor, Beverley Commercial Centre</li>
-          <li>87-105 Chatham Road South, Hong Kong</li>
+          <li><strong>The Lead Empire L.L.C-FZ</strong></li>
+          <li>Meydan Grandstand, 6th floor,</li>
+          <li>Meydan Road,</li>
+          <li>Emirati Arabi Uniti</li>
           <li><a href="mailto:info@nexshophub.com">info@nexshophub.com</a></li>
         </ul>
       </div>'''

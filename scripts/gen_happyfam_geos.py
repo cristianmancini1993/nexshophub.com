@@ -34,12 +34,12 @@ GEOS = [
 ]
 
 GTAG = """<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18376580748"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18376654362"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'AW-18376580748');
+  gtag('config', 'AW-18376654362');
 </script>"""
 
 
@@ -155,16 +155,15 @@ def ty_footer(geo: str, lang: str, s: dict) -> str:
     <div>
       <h4 class="site-footer__heading">{s['footer_contact']}</h4>
       <ul class="site-footer__list">
-        <li><strong>WHATECH MOBILE CO., LIMITED</strong></li>
-          <li>Huanbin Lin</li>
-          <li>Room 505, 5th floor, Beverley Commercial Centre</li>
-          <li>87-105 Chatham Road South</li>
-          <li>Hong Kong</li>
+        <li><strong>The Lead Empire L.L.C-FZ</strong></li>
+          <li>Meydan Grandstand, 6th floor,</li>
+          <li>Meydan Road,</li>
+          <li>Emirati Arabi Uniti</li>
         <li><a href="mailto:info@nexshophub.com">info@nexshophub.com</a></li>
       </ul>
     </div>
   </div>
-  <div class="site-footer__bottom">© <span data-year>2026</span> <strong>WHATECH MOBILE CO., LIMITED</strong> — {s['footer_rights']} <a href="/">nexshophub.com</a></div>
+  <div class="site-footer__bottom">© <span data-year>2026</span> <strong>The Lead Empire L.L.C-FZ</strong> — {s['footer_rights']} <a href="/">nexshophub.com</a></div>
 </div></footer>"""
 
 
@@ -191,17 +190,16 @@ def footer_links(geo: str, lang: str, s: dict) -> str:
       <div>
         <h4 style="color:#fff;font-size:12px;text-transform:uppercase;letter-spacing:.12em;margin:0 0 14px;font-weight:700">{s['footer_contact']}</h4>
         <ul style="list-style:none;padding:0;margin:0;line-height:1.9">
-          <li><strong style="color:#fff">WHATECH MOBILE CO., LIMITED</strong></li>
-          <li>Huanbin Lin</li>
-          <li>Room 505, 5th floor, Beverley Commercial Centre</li>
-          <li>87-105 Chatham Road South</li>
-          <li>Hong Kong</li>
+          <li><strong style="color:#fff">The Lead Empire L.L.C-FZ</strong></li>
+          <li>Meydan Grandstand, 6th floor,</li>
+          <li>Meydan Road,</li>
+          <li>Emirati Arabi Uniti</li>
           <li><a href="mailto:info@nexshophub.com">info@nexshophub.com</a></li>
         </ul>
       </div>
     </div>
     <div class="hf-container" style="margin-top:28px;padding-top:20px;border-top:1px solid rgba(255,255,255,.12);font-size:11px;color:#9a948a">
-      © <span data-year>2026</span> <strong style="color:#bfb8ad">WHATECH MOBILE CO., LIMITED</strong> — {s['footer_rights']} <a href="/">nexshophub.com</a>
+      © <span data-year>2026</span> <strong style="color:#bfb8ad">The Lead Empire L.L.C-FZ</strong> — {s['footer_rights']} <a href="/">nexshophub.com</a>
     </div>
   </footer>"""
 
@@ -382,7 +380,7 @@ body {{ background: #f8fafc; }}
     var subid = p.get('subid') || p.get('campaign_id') || stored('subid') || stored('campaign_id') || '';
     var transactionId = p.get('order_id') || p.get('transaction_id') || p.get('tid') || subid || '';
     gtag('event', 'conversion', {{
-      'send_to': 'AW-18376580748/K45WCPGxpescEIy90bpE',
+      'send_to': 'AW-18376654362/2rJmCOGkveEcEJr81bpE',
       'value': {cpa},
       'currency': 'USD',
       'transaction_id': transactionId

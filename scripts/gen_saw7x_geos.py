@@ -1433,14 +1433,13 @@ def write_index(geo: str) -> str:
 <html lang="{GEOS[geo]['lang']}">
 <head>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18437776204"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18376654362"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){{dataLayer.push(arguments);}}
   gtag('js', new Date());
 
-  gtag('config', 'AW-18437776204');
-  gtag('config', 'AW-18376580748');
+  gtag('config', 'AW-18376654362');
 </script>
 <meta charset="utf-8">
 <title>Redirect…</title>
