@@ -7,7 +7,7 @@ Static HTML/CSS/JS multi-geo e-commerce site for Cash On Delivery campaigns (Met
 ## Quick facts
 
 - **Domain**: nexshophub.com
-- **Company**: The Lead Empire L.L.C-FZ — Meydan Grandstand, 6th floor, Meydan Road, Emirati Arabi Uniti
+- **Company**: The Lead Empire L.L.C-FZ — Gabriele Bonanno, Meydan Grandstand, 6th floor, Meydan Road, Emirati Arabi Uniti
 - **Contact email**: info@nexshophub.com (auto-derived from domain)
 - **First product**: HyperTrimmer™ 3000 (slug: `hypertrimmer`) — battery-powered grass trimmer
 - **Geos active**: 18 (it, es, fr, de, pt, gr, bg, ro, cz, pl, ee, lv, lt, hr, hu, si, sk, en)

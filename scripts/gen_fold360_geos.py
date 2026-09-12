@@ -785,6 +785,7 @@ def footer_html(geo: str, g: dict) -> str:
         <h4 class="site-footer__heading">{g["footer_contact"]}</h4>
         <ul class="site-footer__list">
           <li><strong>The Lead Empire L.L.C-FZ</strong></li>
+          <li>Gabriele Bonanno</li>
           <li>Meydan Grandstand, 6th floor,</li>
           <li>Meydan Road,</li>
           <li>Emirati Arabi Uniti</li>

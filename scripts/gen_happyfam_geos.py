@@ -156,6 +156,7 @@ def ty_footer(geo: str, lang: str, s: dict) -> str:
       <h4 class="site-footer__heading">{s['footer_contact']}</h4>
       <ul class="site-footer__list">
         <li><strong>The Lead Empire L.L.C-FZ</strong></li>
+          <li>Gabriele Bonanno</li>
           <li>Meydan Grandstand, 6th floor,</li>
           <li>Meydan Road,</li>
           <li>Emirati Arabi Uniti</li>
@@ -191,6 +192,7 @@ def footer_links(geo: str, lang: str, s: dict) -> str:
         <h4 style="color:#fff;font-size:12px;text-transform:uppercase;letter-spacing:.12em;margin:0 0 14px;font-weight:700">{s['footer_contact']}</h4>
         <ul style="list-style:none;padding:0;margin:0;line-height:1.9">
           <li><strong style="color:#fff">The Lead Empire L.L.C-FZ</strong></li>
+          <li>Gabriele Bonanno</li>
           <li>Meydan Grandstand, 6th floor,</li>
           <li>Meydan Road,</li>
           <li>Emirati Arabi Uniti</li>
