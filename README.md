@@ -80,7 +80,6 @@ Easiest way to update across all 18 geos: a single `sed -i` command from the roo
 ### 3. Configure form endpoint
 In each `landing.html`, replace the placeholder:
 ```js
-FORM_ENDPOINT: 'https://TODO-network-endpoint.com/api/lead'
 ```
 with the real CRM/network endpoint that should receive the lead payload.
 
